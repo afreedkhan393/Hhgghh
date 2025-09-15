@@ -6,7 +6,7 @@ import random
 import time
 import os
 
-BOT_TOKEN = "8369623947:AAGwr0m_9wR2XkgzTMSQ-34EcdjMU4avuFA"
+BOT_TOKEN = "8123693031:AAFAfh3CBuybVTQmXtXnUmoXzntRcgD9qks"
 
 def get_proxies():
     try:
